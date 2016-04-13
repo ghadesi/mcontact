@@ -1,6 +1,6 @@
 # mcontact
-## A Bash script to manage your contact .
-## It's just a tutorial project for *fun* :blush:
+### A Bash script to manage your contact .
+### It's just a tutorial project for *fun* :blush:
 # 
 # Installation 
 - ```$ git clone https://github.com/mostafaasadi/mcontact```
