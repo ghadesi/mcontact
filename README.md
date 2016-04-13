@@ -8,7 +8,7 @@
 - ```$ chmod +x mc.sh```
 - ```$ ./mc.sh```
 
-This script has argumnent and none argument ability , so you can just simply run *mc.sh* or use this argument :
+> This script has argumnent and none argument ability , so you can just simply run *mc.sh* or use this argument :
 
 - -l                       show list of your contact 
 
